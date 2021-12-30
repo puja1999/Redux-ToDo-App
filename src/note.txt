@@ -1,0 +1,7 @@
+1) define all actions
+2) add your payload to actions
+3) define reducers
+
+4) add disptach in components, first include actions 
+
+5) also import useSelector in components

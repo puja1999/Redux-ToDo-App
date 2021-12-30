@@ -1,0 +1,21 @@
+.showItems {
+  margin-top: 30px;
+}
+.eachIem {
+  margin-top: 5px;
+}
+
+.eachIem li {
+  margin: auto;
+  border: 1px solid blue;
+  padding: 5px;
+  width: 10%;
+  display: flex;
+  justify-content: space-between;
+  text-align: center;
+  cursor: pointer;
+}
+
+.showItems button{
+    margin-top: 10px;
+  }
